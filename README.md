@@ -34,3 +34,10 @@
 
 ![](https://github.com/DanialArab/images/blob/main/Fast%20Prototyping%20of%20GenAI%20Apps%20with%20Streamlit/MAP.png)
 
+![](https://github.com/DanialArab/images/blob/main/Fast%20Prototyping%20of%20GenAI%20Apps%20with%20Streamlit/m_for_mission_1.png)
+
+![](https://github.com/DanialArab/images/blob/main/Fast%20Prototyping%20of%20GenAI%20Apps%20with%20Streamlit/m_for_mission_2.png)
+
+![](https://github.com/DanialArab/images/blob/main/Fast%20Prototyping%20of%20GenAI%20Apps%20with%20Streamlit/a_for_audience.png)
+
+![](https://github.com/DanialArab/images/blob/main/Fast%20Prototyping%20of%20GenAI%20Apps%20with%20Streamlit/p_for_priority.png)
