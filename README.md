@@ -52,4 +52,17 @@ What is an Agile Prototyping?
 
 Agile prototyping is a flexible and user-centered method for developing product prototypes in the course of development. The first step in the process is gathering requirements and determining what users need. Next, a simple prototype is made. Although it may not have every feature yet, it provides a rough concept of the product. After receiving input from users and stakeholders, the prototype is gradually improved. Until the result lives up to everyone's expectations, this cycle is repeated.
 
+![](https://github.com/DanialArab/images/blob/main/Fast%20Prototyping%20of%20GenAI%20Apps%20with%20Streamlit/how_to_work_with_genai_1.png)
 
+![](https://github.com/DanialArab/images/blob/main/Fast%20Prototyping%20of%20GenAI%20Apps%20with%20Streamlit/how_to_work_with_genai_2.png)
+
+![](https://github.com/DanialArab/images/blob/main/Fast%20Prototyping%20of%20GenAI%20Apps%20with%20Streamlit/how_to_work_with_genai_3.png)
+
+
+![](https://github.com/DanialArab/images/blob/main/Fast%20Prototyping%20of%20GenAI%20Apps%20with%20Streamlit/how_to_work_with_genai_4.png)
+
+
+![](https://github.com/DanialArab/images/blob/main/Fast%20Prototyping%20of%20GenAI%20Apps%20with%20Streamlit/how_to_work_with_genai_5.png)
+
+
+![](https://github.com/DanialArab/images/blob/main/Fast%20Prototyping%20of%20GenAI%20Apps%20with%20Streamlit/how_to_work_with_genai_6.png)
