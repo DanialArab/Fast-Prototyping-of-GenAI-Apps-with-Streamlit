@@ -44,3 +44,7 @@
 
 ![](https://github.com/DanialArab/images/blob/main/Fast%20Prototyping%20of%20GenAI%20Apps%20with%20Streamlit/prioritize_what_to_build.png)
 
+Agile prototyping:
+
+https://www.geeksforgeeks.org/software-engineering/agile-prototyping/
+
