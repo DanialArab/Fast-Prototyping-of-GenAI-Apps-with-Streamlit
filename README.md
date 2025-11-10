@@ -48,3 +48,8 @@ Agile prototyping:
 
 https://www.geeksforgeeks.org/software-engineering/agile-prototyping/
 
+What is an Agile Prototyping?
+
+Agile prototyping is a flexible and user-centered method for developing product prototypes in the course of development. The first step in the process is gathering requirements and determining what users need. Next, a simple prototype is made. Although it may not have every feature yet, it provides a rough concept of the product. After receiving input from users and stakeholders, the prototype is gradually improved. Until the result lives up to everyone's expectations, this cycle is repeated.
+
+
