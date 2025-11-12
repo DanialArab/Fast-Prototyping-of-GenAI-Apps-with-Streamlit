@@ -1,5 +1,9 @@
 # Fast Prototyping of GenAI Apps with Streamlit
 
+## Module 1: Introduction to Prototyping Generative AI Applications
+
+### Introduction to Prototyping for Generative AI Apps
+
 ![](https://github.com/DanialArab/images/blob/main/Fast%20Prototyping%20of%20GenAI%20Apps%20with%20Streamlit/course_overview.png)
 
 ![](https://github.com/DanialArab/images/blob/main/Fast%20Prototyping%20of%20GenAI%20Apps%20with%20Streamlit/build_fast_available_tools.png)
@@ -66,3 +70,11 @@ Agile prototyping is a flexible and user-centered method for developing product 
 
 
 ![](https://github.com/DanialArab/images/blob/main/Fast%20Prototyping%20of%20GenAI%20Apps%20with%20Streamlit/how_to_work_with_genai_6.png)
+
+
+### Getting Started with Web App Frameworks
+
+![](https://github.com/DanialArab/images/blob/main/Fast%20Prototyping%20of%20GenAI%20Apps%20with%20Streamlit/no_need_for_full_stack.png)
+
+![](https://github.com/DanialArab/images/blob/main/Fast%20Prototyping%20of%20GenAI%20Apps%20with%20Streamlit/ui_frameworks.png)
+
