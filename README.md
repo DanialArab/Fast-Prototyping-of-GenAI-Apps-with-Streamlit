@@ -109,3 +109,7 @@ https://www.youtube.com/watch?v=9CrZizlsUdk
 https://learn.snowflake.com/en/courses/OD-LVLUP-103/
 
 ![](https://github.com/DanialArab/images/blob/main/Fast%20Prototyping%20of%20GenAI%20Apps%20with%20Streamlit/how_snowflake_organizes_data.png)
+
+#### More on data loading on Snowflake
+
+![](https://learn.snowflake.com/en/courses/OD-LVLUP-106/)
