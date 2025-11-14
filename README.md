@@ -114,4 +114,5 @@ https://learn.snowflake.com/en/courses/OD-LVLUP-103/
 
 ![](https://learn.snowflake.com/en/courses/OD-LVLUP-106/)
 
+#### l s
 
