@@ -113,3 +113,5 @@ https://learn.snowflake.com/en/courses/OD-LVLUP-103/
 #### More on data loading on Snowflake
 
 ![](https://learn.snowflake.com/en/courses/OD-LVLUP-106/)
+
+
