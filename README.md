@@ -112,7 +112,8 @@ https://learn.snowflake.com/en/courses/OD-LVLUP-103/
 
 #### More on data loading on Snowflake
 
-![](https://learn.snowflake.com/en/courses/OD-LVLUP-106/)
+https://learn.snowflake.com/en/courses/OD-LVLUP-106/
 
 #### l s
 
+![](https://github.com/DanialArab/images/blob/main/Fast%20Prototyping%20of%20GenAI%20Apps%20with%20Streamlit/why_stages.png)
