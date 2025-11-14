@@ -78,3 +78,6 @@ Agile prototyping is a flexible and user-centered method for developing product 
 
 ![](https://github.com/DanialArab/images/blob/main/Fast%20Prototyping%20of%20GenAI%20Apps%20with%20Streamlit/ui_frameworks.png)
 
+## Module 2: Fast Prototyping with Streamlit in Snowflake
+
+![](https://github.com/DanialArab/images/blob/main/Fast%20Prototyping%20of%20GenAI%20Apps%20with%20Streamlit/streamlit_vs_snowflake.png) 
