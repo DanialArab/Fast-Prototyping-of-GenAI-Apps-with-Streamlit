@@ -98,3 +98,9 @@ https://docs.snowflake.com/en/developer-guide/streamlit/getting-started
 
 ![](https://github.com/DanialArab/images/blob/main/Fast%20Prototyping%20of%20GenAI%20Apps%20with%20Streamlit/data_organization_in_snowflake.png)
 
+#### More on Snowsight features
+
+https://medium.com/snowflake/overview-of-snowsight-snowflakes-web-interface-c32d42e546ba
+
+https://www.youtube.com/watch?v=9CrZizlsUdk
+
