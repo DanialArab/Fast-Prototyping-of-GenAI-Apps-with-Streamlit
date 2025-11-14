@@ -104,3 +104,8 @@ https://medium.com/snowflake/overview-of-snowsight-snowflakes-web-interface-c32d
 
 https://www.youtube.com/watch?v=9CrZizlsUdk
 
+#### More on the Snowflake Ecosystem
+
+https://learn.snowflake.com/en/courses/OD-LVLUP-103/
+
+
