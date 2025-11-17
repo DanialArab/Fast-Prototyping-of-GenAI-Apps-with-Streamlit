@@ -134,3 +134,5 @@ https://learn.snowflake.com/en/courses/OD-LVLUP-106/
 
 ![](https://github.com/DanialArab/images/blob/main/Fast%20Prototyping%20of%20GenAI%20Apps%20with%20Streamlit/when_stop_on_improving_prototype.png)
 
+![](https://github.com/DanialArab/images/blob/main/Fast%20Prototyping%20of%20GenAI%20Apps%20with%20Streamlit/close_the_loop_with_users.png)
+
