@@ -115,3 +115,7 @@ https://learn.snowflake.com/en/courses/OD-LVLUP-103/
 https://learn.snowflake.com/en/courses/OD-LVLUP-106/
 
 ![](https://github.com/DanialArab/images/blob/main/Fast%20Prototyping%20of%20GenAI%20Apps%20with%20Streamlit/why_stages.png)
+
+## Module 3: Iterative Improvement
+
+
