@@ -118,4 +118,6 @@ https://learn.snowflake.com/en/courses/OD-LVLUP-106/
 
 ## Module 3: Iterative Improvement
 
+![](https://github.com/DanialArab/images/blob/main/Fast%20Prototyping%20of%20GenAI%20Apps%20with%20Streamlit/deployment_options.png)
+
 
