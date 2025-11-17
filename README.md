@@ -141,3 +141,10 @@ Golden points:
 Today, the key to success is speed. Build fast, get feedback fast, and improve fast. Instead of aiming for perfection, aim for progress. Each cycle of feedback and improvement gets you closer to something people truly want.
 The developers that master this cycle are the ones that will thrive. So start small, move quickly, and always keep your users at the center of everything that you do.
 
+#### Feedback
+
+The most important part is to get feedback early.
+
+![](https://github.com/DanialArab/images/blob/main/Fast%20Prototyping%20of%20GenAI%20Apps%20with%20Streamlit/ask_At_the_right_moment.png)
+
+
