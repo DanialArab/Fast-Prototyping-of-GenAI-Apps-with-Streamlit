@@ -169,4 +169,7 @@ The most important part is to get feedback early.
 
 ![](https://github.com/DanialArab/images/blob/main/Fast%20Prototyping%20of%20GenAI%20Apps%20with%20Streamlit/feedback_driven_prototyping.png)
 
+#### Improving Your Results
+
+![](https://github.com/DanialArab/images/blob/main/Fast%20Prototyping%20of%20GenAI%20Apps%20with%20Streamlit/prompt_eng_importance.png)
 
