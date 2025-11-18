@@ -201,4 +201,6 @@ https://help.openai.com/en/articles/6654000-best-practices-for-prompt-engineerin
 
 ![](https://github.com/DanialArab/images/blob/main/Fast%20Prototyping%20of%20GenAI%20Apps%20with%20Streamlit/RAG.png)
 
+![](https://github.com/DanialArab/images/blob/main/Fast%20Prototyping%20of%20GenAI%20Apps%20with%20Streamlit/RAG_2.png)
+
 
